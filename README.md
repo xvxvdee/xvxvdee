@@ -1,10 +1,13 @@
 <div id="header" align="center">
   <h1>Hello World👋🏾</h1>
-  <img src="https://cdnb.artstation.com/p/assets/images/images/011/688/003/original/roque-franco-parches.gif?1530865027" width="200"/>
+  <img src="https://media.giphy.com/media/uV4OKp4Dt2Zry/giphy.gif" width="200"/>
 </div>
 <div id="badges", align="center">
   <a href="https://www.linkedin.com/in/deandra-spike-madden/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:deandra.spikemadden@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 

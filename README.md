@@ -21,7 +21,7 @@
 <div>
   <h2>My Stats 📊</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xvxvdee&theme=dark&mode=weekly&card_width=300&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvxvdee&layout=compact&theme=vision-friendly-dark&hide_progress=true&langs_count=5)](https://github.com/xvxxdee/github-readme-stats)  &nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xvxvdee&theme=dark&mode=weekly&card_width=300&card&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xvxvdee&theme=dark&mode=weekly&card_width=200&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xvxvdee&layout=compact&theme=vision-friendly-dark&hide_progress=true&langs_count=5)](https://github.com/xvxxdee/github-readme-stats)  &nbsp;&nbsp;&nbsp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xvxvdee&theme=dark&mode=weekly&card_width=200&card&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)</div>
 
 
 <!--

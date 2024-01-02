@@ -13,7 +13,7 @@
 
 <div>
   <h2>About Me 🤔</h2>
-<p>My name is Deandra. I graduated from Toronto Metropolitan University (Toronto, Canada) with a Bachelor of Science in Computer Science and a French minor. Currently, I am working as a Software Engineer at Microsoft. One of my goals is to have a global impact through my work, reaching and influencing people all around the world, which I believe will bring me immense joy and satisfaction. In my free time, I enjoy spending time with friends, learning new languages, and working on side projects. I look forward to future collaborations.</p>
+<p>My name is Deandra. I am set to graduate from Toronto Metropolitan University (Toronto, Canada) with a Bachelor of Science in Computer Science and a French minor. Currently, I will be working as a Software Engineer at Microsoft. One of my goals is to have a global impact through my work, reaching and influencing people all around the world, which I believe will bring me immense joy and satisfaction. In my free time, I enjoy spending time with friends, learning new languages, and working on side projects. I look forward to future collaborations.</p>
   <br>
   <ul>
     <li>🔭 I’m currently working on https://github.com/xvxvdee/Portfolio</li> 
